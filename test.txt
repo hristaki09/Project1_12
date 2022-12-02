@@ -1,6 +1,6 @@
 "Hello" 
 Hi I'm master. Hi, I'm local.
-Hello from VSC
+Hello from VSC. Change from master.
 for commit
 Row 5
 Row 6
