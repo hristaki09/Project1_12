@@ -1,6 +1,6 @@
 "Hello" 
 Hi I'm master. Hi, I'm local.
 Hello from VSC. Change from master.
-Other change master
+very important change
 Row 5. Changet from local.
 Row 6
